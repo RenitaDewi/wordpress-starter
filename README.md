@@ -7,6 +7,8 @@
 1. [Getting Started](#getting-started)
 2. [Building layouts](#building-layouts)
 3. [Plugins](#plugins)
+	a. [E-commerce](#e-commerce)
+	b. [SEO](#seo)
 4. [Deployment](#deployment)
 5. [Hosting](#hosting)
 
@@ -19,8 +21,21 @@
 ## Building Layouts
 
 ## Plugins
-> 1. [WooCommerce](https://wordpress.org/plugins/woocommerce/)
-> 2. [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)
+>
+> ### E-commerce
+> 1. [WooCommerce](https://wordpress.org/plugins/woocommerce/) - Transform your WordPress website into a thoroughbred eCommerce store. Delivering enterprise-level quality and features, backed by a name you can trust. Say "hello" to the WooCommerce eCommerce plugin.
+>	> Keunggulan Utama :
+>	> * Berintegrasi dengan berbagai ekstensi dan plugin lainnya
+>	> * Mudah untuk di setup atau di install
+>	> * Menerima berbagai opsi pembayaran
+>	> * Menawarkan struktur yang mudah digunakan oleh developer
+>	> Disarankan Untuk :
+>	>
+
+> ### SEO
+> 1. [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) - Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using Yoast SEO plugin.
+
+> ### 
 > 3. [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
 > 4. [Jetpack](https://wordpress.org/plugins/jetpack/)
 > 5. [Imagify Image Optimizer](https://wordpress.org/plugins/imagify/)
@@ -41,7 +56,7 @@
 > 9. Godaddy: https://id.godaddy.com
 > 10. Hostinger https://www.hostinger.com/
 > 11. Media Temple https://mediatemple.net/
-> 12.DreamHost https://www.dreamhost.com/
+> 12. DreamHost https://www.dreamhost.com/
 > 13. InMotionHosting https://www.inmotionhosting.com
 > 14. HostGator https://www.hostgator.com
 > 15. TMDHosting https://www.tmdhosting.com/
